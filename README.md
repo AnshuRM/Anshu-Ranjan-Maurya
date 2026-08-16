@@ -38,7 +38,7 @@ I'm using projects to move from:
 
 Some areas I'm exploring:
 
-* 📊 Sales & Revenue Analysis
+* 🚲 Bike Rental SQL Case Study
 
 
 ---
