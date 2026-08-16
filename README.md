@@ -1,1 +1,1 @@
-### Hey I am Anshu-Ranjan-Maurya 👋
+### Hey, I'm Anshu 👋
